@@ -88,12 +88,12 @@ class Config:
 နှိပ်ပါ 👉@YNVIPMEMBERBOT👈
 
 🟢တင်ပြီးသားစီးရီးListကြည့်ရန်
-https://t.me/YN_VIP_Series_ListAndPoster
+👉@YN_VIP_Series_ListAndPoster
 
 🔴စီးရီး အညွှန်းများဖတ်ရန်
-https://t.me/YoeNaungAllMovieList
+👉@YoeNaungAllMovieList
 
-😘Admin @YoeNaung\n\n 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 [『..Dr Yoe..』](t.me/YoeNaung)""")
+😘Admin👉 @YoeNaung\n\n 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 [『..Dr Yoe..』](t.me/YoeNaung)""")
     
     LONG_IMDB_DESCRIPTION = is_enabled(environ.get("LONG_IMDB_DESCRIPTION", "False"), False)
     SPELL_CHECK_REPLY = is_enabled(environ.get("SPELL_CHECK_REPLY", "False"), False)
