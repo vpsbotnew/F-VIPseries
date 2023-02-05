@@ -93,7 +93,7 @@ https://t.me/YN_VIP_Series_ListAndPoster
 🔴စီးရီး အညွှန်းများဖတ်ရန်
 https://t.me/YoeNaungAllMovieList
 
-😘Admin @YoeNaung\n\n🏷 𝖳𝗂𝗍𝗅𝖾: <a href={url}>{title}</a> - {year} \n\n⭐️ 𝖱𝖺𝗍𝗂𝗇𝗀𝗌: {rating}/ 10  \n🎭 𝖦𝖾𝗇𝖾𝗋𝗌: {genres} \n\n🎊 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 [『..Dr Yoe..』](t.me/YoeNaung)""")
+😘Admin @YoeNaung\n\n 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 [『..Dr Yoe..』](t.me/YoeNaung)""")
     
     LONG_IMDB_DESCRIPTION = is_enabled(environ.get("LONG_IMDB_DESCRIPTION", "False"), False)
     SPELL_CHECK_REPLY = is_enabled(environ.get("SPELL_CHECK_REPLY", "False"), False)
