@@ -207,12 +207,12 @@ Message <b>: {}</b>"""
 နှိပ်ပါ 👉@YNVIPMEMBERBOT👈
 
 🟢တင်ပြီးသားစီးရီးListကြည့်ရန်
-https://t.me/YN_VIP_Series_ListAndPoster
+👉@YN_VIP_Series_ListAndPoster
 
 🔴စီးရီး အညွှန်းများဖတ်ရန်
-https://t.me/YoeNaungAllMovieList
+👉@YoeNaungAllMovieList
 
-😘Admin @YoeNaung
+😘Admin👉 @YoeNaung
 
 🎊 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 [『..DR YOE..』](t.me/YoeNaung)"""
     
