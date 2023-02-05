@@ -197,12 +197,22 @@ Message <b>: {}</b>"""
 🖇 File Size: {file_size} """
 
     IMDB_TEMPLATE_TXT = """
-📁 𝖸𝗈𝗎𝗋 Movie 𝖠𝗋𝖾 𝖱𝖾𝖺𝖽𝗒
+🥰မိတ်ဆွေခင်ဗျ🥰
 
-🏷 𝖳𝗂𝗍𝗅𝖾: <a href={url}>{title}</a> - {year} 
+ဒီစီးရီးကို YN English Series VIP မှာတင်ထားပါတယ်။
 
-⭐️ 𝖱𝖺𝗍𝗂𝗇𝗀𝗌: {rating}/ 10  
-🎭 𝖦𝖾𝗇𝖾𝗋𝗌: {genres} 
+⭐️Lifetime ၃၀၀၀ ကျပ်နဲ့ မန်ဘာဝင်ပြီးကြည့်နိုင်ပါတယ်။
+
+⭐️အသေးစိတ်ကြည့်ရန်အတွက်အောက်က Bot လေးကို နှိပ်ပေးပါနော်။
+နှိပ်ပါ 👉@YNVIPMEMBERBOT👈
+
+🟢တင်ပြီးသားစီးရီးListကြည့်ရန်
+https://t.me/YN_VIP_Series_ListAndPoster
+
+🔴စီးရီး အညွှန်းများဖတ်ရန်
+https://t.me/YoeNaungAllMovieList
+
+😘Admin @YoeNaung
 
 🎊 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 [『..DR YOE..』](t.me/YoeNaung)"""
     
