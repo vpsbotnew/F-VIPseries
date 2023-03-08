@@ -205,11 +205,11 @@ Message <b>: {}</b>"""
 
 <a href='https://t.me/YNVIPMEMBERBOT'>💫အသေးစိတ်ကြည့်ရန် ဤနေရာကိုနှိပ်ပါ</a>
 
-<a href='https://t.me/YN_VIP_Series_ListAndPoster'>🟢စီးရီးအမည် ကြည့်ရန် ဤနေရာကိုနှိပ်ပါ</a>
+<a href='https://t.me/YN_VIP_Series_ListAndPoster'>🟢စီးရီးအမည်ကြည့်ရန် ဤနေရာကိုနှိပ်ပါ</a>
 
 <a href='https://t.me/YoeNaungAllMovieList'>🔴စီးရီးအညွှန်းများဖတ်ရန် ဤနေရာကိုနှိပ်ပါ</a>
 
-<a href='https://t.me/YoeNaung'>😘Adminနဲ့ပြောရန် ဤနေရာကိုနှိပ်ပါ</a></a>
+<a href='https://t.me/YoeNaung'>😘Adminနဲ့ပြောရန် ဤနေရာကိုနှိပ်ပါ</a>
 
 🎊 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 [『..DR YOE..』](t.me/YoeNaung)"""
     
