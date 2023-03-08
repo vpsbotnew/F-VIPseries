@@ -203,16 +203,13 @@ Message <b>: {}</b>"""
 
 ⭐️Lifetime ၃၀၀၀ ကျပ်နဲ့ မန်ဘာဝင်ပြီးကြည့်နိုင်ပါတယ်။
 
-⭐️အသေးစိတ်ကြည့်ရန်အတွက်အောက်က Bot လေးကို နှိပ်ပေးပါနော်။
-နှိပ်ပါ 👉@YNVIPMEMBERBOT👈
+<a href='https://t.me/YNVIPMEMBERBOT'>💫အသေးသိတ်ကြည့်ရန် ဤနေရာကိုနှိပ်ပါ💫</a>
 
-🟢တင်ပြီးသားစီးရီးListကြည့်ရန်
-👉@YN_VIP_Series_ListAndPoster
+<a href='https://t.me/YN_VIP_Series_ListAndPoster'>🟢တင်ပြီးသားစီးရီးအမည်ကြည့်ရန် ဤနေရာကိုနှိပ်ပါ🟢</a>
 
-🔴စီးရီး အညွှန်းများဖတ်ရန်
-👉@YoeNaungAllMovieList
+<a href='https://t.me/YoeNaungAllMovieList'>🔴တင်ပြီးသားစီးရီးအညွှန်းဖတ်ရန် ဤနေရာကိုနှိပ်ပါ🔴</a>
 
-😘Admin👉 @YoeNaung
+<a href='https://t.me/YoeNaung'>😘Adminနဲ့ဆက်သွယ်ရန် ဤနေရာကိုနှိပ်ပါ</a>
 
 🎊 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 [『..DR YOE..』](t.me/YoeNaung)"""
     
