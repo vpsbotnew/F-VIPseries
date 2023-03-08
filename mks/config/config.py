@@ -90,7 +90,9 @@ class Config:
 
 <a href='https://t.me/YoeNaungAllMovieList'>🔴စီးရီးအညွှန်းများဖတ်ရန် ဤနေရာကိုနှိပ်ပါ</a>
 
-<a href='https://t.me/YoeNaung'>😘Adminနဲ့ပြောရန် ဤနေရာကိုနှိပ်ပါ</a>\n\n 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 [『..Dr Yoe..』](t.me/YoeNaung)""")
+<a href='https://t.me/YoeNaung'>😘Adminနဲ့ပြောရန် ဤနေရာကိုနှိပ်ပါ</a>
+
+𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 [『..Dr Yoe..』](t.me/YoeNaung)""")
     
     LONG_IMDB_DESCRIPTION = is_enabled(environ.get("LONG_IMDB_DESCRIPTION", "False"), False)
     SPELL_CHECK_REPLY = is_enabled(environ.get("SPELL_CHECK_REPLY", "False"), False)
