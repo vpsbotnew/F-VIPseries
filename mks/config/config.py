@@ -88,7 +88,7 @@ class Config:
 
 <a href='https://t.me/YN_VIP_Series_ListAndPoster'>🟢စီးရီးအမည်ကြည့်ရန် ဤနေရာကိုနှိပ်ပါ</a>
 
-<a href='https://t.me/YoeNaungAllMovieList'>🔴စီးရီးအညွှန်းများဖတ်ရန် ဤနေရာကိုနှိပ်ပါ</a>
+<a href='https://t.me/YoeNaungAllMovieList'>🔴စီးရီးအညွှန်းဖတ်ရန် ဤနေရာကိုနှိပ်ပါ</a>
 
 <a href='https://t.me/YoeNaung'>😘Adminနဲ့ပြောရန် ဤနေရာကိုနှိပ်ပါ</a>
 
