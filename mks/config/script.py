@@ -203,7 +203,7 @@ Message <b>: {}</b>"""
 
 ⭐️Lifetime ၃၀၀၀ ကျပ်နဲ့ မန်ဘာဝင်ပြီးကြည့်နိုင်ပါတယ်။
 
-<a href='https://t.me/YNVIPMEMBERBOT'>💫အသေးသိတ်ကြည့်ရန် ဤနေရာကိုနှိပ်ပါ💫</a>
+<a href='https://t.me/YNVIPMEMBERBOT'>💫အသေးစိတ်ကြည့်ရန် ဤနေရာကိုနှိပ်ပါ💫</a>
 
 <a href='https://t.me/YN_VIP_Series_ListAndPoster'>🟢တင်ပြီးသားစီးရီးအမည်ကြည့်ရန် ဤနေရာကိုနှိပ်ပါ🟢</a>
 
